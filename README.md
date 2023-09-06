@@ -13,5 +13,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## :desktop_computer: Setup:
 
 - Install all project dependencies with `npm install`
-- Start the development server with `npm start`
+- Start the development server with `npm run dev`
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
