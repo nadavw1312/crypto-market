@@ -5,7 +5,7 @@ const GitHubButton = () => {
   return (
     <a
       className="github-button"
-      href="https://github.com/your-username/your-repo"
+      href="https://github.com/nadavw1312/crypto-market"
       target="_blank"
       rel="noopener noreferrer"
     >
