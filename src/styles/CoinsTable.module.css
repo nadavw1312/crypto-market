@@ -1,0 +1,41 @@
+.container {
+  max-width: 100vw;
+  padding: 1rem;
+}
+
+.tableContainer {
+  overflow-x: auto;
+  min-height: 70vh;
+}
+
+.coinsTable {
+  width: 100%;
+  text-align: center;
+}
+
+.coinsTable > thead > tr {
+  background: rgba(96, 96, 255, 0.836);
+}
+
+.coinsTable > tbody > tr {
+  background: rgba(189, 207, 255, 0.836);
+}
+
+.coinsTable > tbody > tr:hover {
+  background: rgba(215, 225, 252, 0.836);
+}
+
+.coinsTable th,
+.coinsTable td {
+  padding: 1rem;
+}
+
+.positive {
+  color: green;
+  font-weight: 700;
+}
+
+.negetive {
+  color: red;
+  font-weight: 700;
+}
